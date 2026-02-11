@@ -13,7 +13,7 @@ const CONFIG = {
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
-    floatingEmojis: {
+    floatingEmojis: {Y
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
@@ -25,7 +25,7 @@ const CONFIG = {
             text: ",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer:           // Secret hover message
+            secretAnswer: Yes a lot!          // Secret hover message
         },
         second: { How much do you love me?
             text: "How much do you love me?",                          // For the love meter
